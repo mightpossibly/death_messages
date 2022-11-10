@@ -120,7 +120,7 @@ messages.other = {
 <player> went bungee jumping without a rope.
 <player> hit the ground too fast.
 <player> had a hard landing.
-<player> failed their experiment with gravity.
+<player> failed their experiment with gravity. 
 
 --]]
 
