@@ -108,7 +108,7 @@ messages.other = {
 	" probably did better than that guy in Saw.",
 	" probably didn't choke on a grape seed.",
 	" had an idea, but it just didn't work out.",
-	" player>sacrificed themselves for the greater good."
+	" sacrificed themselves for the greater good."
 }
 
 --[[ FALL DAMAGE (NOT SUPPORTED IN CURRENT API)
