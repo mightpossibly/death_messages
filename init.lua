@@ -72,7 +72,8 @@ messages.fire = {
 	" got cooked like a roast.",
 	" squealed like a pig.",
 	" did a good job as firewood.",
-	" got burnt like it was the dark ages"
+	" got burnt like it was the dark ages",
+	" is now toast."
 }
 
 -- Other death messages
@@ -106,7 +107,8 @@ messages.other = {
 	" probably didn't die from food poisoning.",
 	" probably did better than that guy in Saw.",
 	" probably didn't choke on a grape seed.",
-	" had an idea, but it just didn't work out."
+	" had an idea, but it just didn't work out.",
+	" player>sacrificed themselves for the greater good."
 }
 
 --[[ FALL DAMAGE (NOT SUPPORTED IN CURRENT API)
@@ -118,6 +120,7 @@ messages.other = {
 <player> went bungee jumping without a rope.
 <player> hit the ground too fast.
 <player> had a hard landing.
+<player> failed their experiment with gravity.
 
 --]]
 
