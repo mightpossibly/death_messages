@@ -1,3 +1,8 @@
+IMPORTANT NOTICE: This is a fork by mightpossibly of the mod 'death_messages'. It is an altered version of the original code. The original authors have no affiliation with this repository, nor do they endorse it or its contents in any way.
+
+The original license applies to this fork as well:
+
+--------------
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
